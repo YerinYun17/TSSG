@@ -4,4 +4,4 @@
 
 
 
-"The latest version code will be updated within a month."
+"The latest version code will be updated soon."
